@@ -1,12 +1,12 @@
 {
   "name": "object-element-insertion",
-  "repo": "shallker/object-element-insertion",
+  "repo": "object-dom/object-element-insertion",
   "description": "ObjectElement insertion",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "object-element/object-element": "*",
-    "object-element/object-element-selection": "*"
+    "object-dom/object-element": "*",
+    "object-dom/object-element-selection": "*"
   },
   "development": {
     "shallker/simple-test": "*", 
