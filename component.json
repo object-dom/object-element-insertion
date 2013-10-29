@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
+    "object-dom/object-document": "*",
     "object-dom/object-element": "*",
     "object-dom/object-element-selection": "*"
   },
